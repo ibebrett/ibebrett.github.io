@@ -23,9 +23,9 @@ github_username:  ibebrett
 
 # Build settings
 markdown: kramdown
-theme: cayman
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+theme: jekyll-theme-cayman
