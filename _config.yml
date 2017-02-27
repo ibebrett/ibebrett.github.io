@@ -1,15 +1,9 @@
 title: ibebrett
 email: ibebrett@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write stuff here!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ibebrett
 
-# Build settings
-#markdown: kramdown
-#gems:
-#  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
